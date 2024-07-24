@@ -33,4 +33,4 @@ export default {
 Contribution
 Contributions are welcome! If you find a bug or have suggestions for improvements, please open an issue or submit a pull request.
 
-@2024 Nur Izatul Auliyaa
+@2024 Nur Izzatul Auliyaa
